@@ -1,6 +1,15 @@
-Contained in this repo is an opinionated version of the classic reference application - [Spring Pet Clinic](https://github.com/spring-projects/spring-petclinic)
+# Spring Pet Clinic
 
+This is MVC application done in Spring Boot using H2 Database and Thymeleaf.
 
-# License
+Screenshot 1:
 
-The Spring PetClinic sample application is released under version 2.0 of the [Apache License](http://www.apache.org/licenses/LICENSE-2.0).
+![](github-images/github-image-1.png)
+
+Screenshot 2:
+
+![](github-images/github-image-2.png)
+
+Screenshot 3:
+
+![](github-images/github-image-3.png)

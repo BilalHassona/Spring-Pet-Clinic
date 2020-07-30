@@ -1,5 +1,6 @@
 package springpetclinic.services.springdatajpa;
 
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Profile;
 import org.springframework.stereotype.Service;
 import springpetclinic.model.Pet;
